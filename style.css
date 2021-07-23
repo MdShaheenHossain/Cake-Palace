@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.logo-size{
+    width: 150px;  
+}
+.button-color{
+background-color: rgb(13, 236, 207);
+}
+.nav-color{
+    background-color: rgb(170, 231, 178);
+    
+}
+.text-decoration{
+    font-family: 'Alfa Slab One', cursive;
+    color: rgb(17, 16, 16);
+}
+.color-decoration{
+    background-color: #c6c3b4;
+}
+.color-decoration2{
+    background-color: #99dced;
+}
+.color-decoration3{
+    background-color: #bebfd0;
+}
+.color-decoration4{
+    background-color: #dae1e5;
+}
